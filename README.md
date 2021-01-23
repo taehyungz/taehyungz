@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**taehyungz/taehyungz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Taehyung Kwon Github 👋
+<hr>
+<div align=center>
+  
+| Type       | Date       | Content                                         | Details               |
+|------------|------------|-------------------------------------------------|-----------------------|
+| University | 2016. 03 ~ | 한국항공대학교                                  | 소프트웨어학과        |
+| Awards     | 2018. 08   | 국방 START-UP 챌린지                            | 육군참모총장상      |
+|            | 2020. 12   | 한국항공대학교 언택트 ICT 창업메이커톤 경진대회 | 한국항공대학교 총장상 |
+</div>
+<div align=center>
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=taehyungz&show_icons=true)
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=thyung)](https://solved.ac/thyung)
+</div>
