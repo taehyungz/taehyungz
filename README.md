@@ -10,6 +10,6 @@
 </div>
 <div align=left>
   
-  ![github stats](https://github-readme-stats.vercel.app/api?username=taehyungz&show_icons=true)
+  
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=thyung)](https://solved.ac/thyung)
 </div>
